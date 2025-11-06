@@ -6,9 +6,9 @@ I am currently not taking bug reports or feature requests for this project. If y
 
 ## How to locally
 
-`nvm use` (or ensure you have the correct Node version, see `.nvmrc`)
-`npm install`
-`npm run dev`
+- `nvm use` (or ensure you have the correct Node version, see `.nvmrc`)
+- `npm install`
+- `npm run dev`
 
 ## Credits
 
