@@ -1,5 +1,5 @@
 import { List } from "antd";
-import { searchResults } from "../logic/Search";
+import { searchResults } from "../logic/JarFile";
 import { useObservable } from "../utils/UseObservable";
 import { openTab } from "../logic/Tabs";
 
